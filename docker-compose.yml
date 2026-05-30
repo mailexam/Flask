@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    ports:
+      - "5000:5000"
+    env_file:
+      - .env
+    environment:
+      HTTP_HOST: 0.0.0.0
+      HTTP_PORT: "5000"
