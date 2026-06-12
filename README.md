@@ -148,3 +148,7 @@ After sending a message in a test, verify delivery via the [Mailexam API](https:
 - [FastAPI reference implementation](https://github.com/mailexam/FastAPI) — same `mail.py` module, async route
 - [Flask documentation](https://flask.palletsprojects.com/)
 - [Mailexam API documentation](https://mailexam.io/api)
+
+## License
+
+Apache 2.0
